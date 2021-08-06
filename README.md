@@ -11,13 +11,15 @@ Hierarchical Attention Networks for Document Classification
 
 Interactive Matching Network for Multi-Turn Response
 
-Modeling Multi-turn Conversation with Deep Utterance Aggregation
-
 Response Ranking with Deep Matching Networks and External
 
 Sequential Matching Network A New Architecture for Multi-turn
 
+Fine-grained Post-training for Improving Retrieval-based Dialogue System
 
+**Modeling Multi-turn Conversation with Deep Utterance Aggregation(DUA)**
+
+**Multi-Turn Response Selection for Chatbots with Deep Attention Matching Network(DAM)**
 
 ### 混合
 
@@ -26,7 +28,7 @@ Enhanced LSTM for Natural Language Inference
 
 HybridNCM
 
-Response Generation by Context-aware Prototype Editing
+**Response Generation by Context-aware Prototype Editing**
 
 Two are Better than One
 
